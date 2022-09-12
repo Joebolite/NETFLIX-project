@@ -1,2 +1,1 @@
-# Netflix-Project
-Built with the original page as guide line 
+https://Netflix-clone-1.joebolite.repl.co
